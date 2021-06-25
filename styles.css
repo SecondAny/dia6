@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+.aviso{
+    font-size: 3rem;
+    background-color: rgb(251, 249, 246);
+}
+
+.fala{
+    font-size: 3rem;
+    background-color: rgb(246, 246, 246) ;
+}
+
+.dias{
+    font-size: 4rem;
+}
+
+.dias img{
+    width: 90%;
+}
